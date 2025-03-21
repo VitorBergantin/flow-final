@@ -1,1 +1,2 @@
 declaração de variáveis - teste ok
+novo teste feito com novas funcoes
