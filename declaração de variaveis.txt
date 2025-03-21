@@ -2,3 +2,4 @@ declaração de variáveis - teste ok
 novo teste feito com novas funções
 subtração comando aqui
 fazendo agora a multipicacao 
+agora a divisao
